@@ -1,4 +1,4 @@
-<div align = center><img alt="An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values." src="https://github.com/vnmdcvpfug/drylab/blob/594010ee519f1301733cf8618c42ad6e5f1e0e55/img/break.svg"></div>
+<div align = center><img alt="An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values." src="https://github.com/vnmdcvpfug/drylab/blob/main/img/break.svg"></div>
 <h3 align = center>Dry Lab</h3>
 <div align = center>a boring theme</div>
 
@@ -195,3 +195,7 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 		<td><code>hsl(0, 0%, 94%)</code></td>
 	</tr>
 </table>
+
+<a href="https://u24.gov.ua">
+<img alt="An SVG image showing two rows of 16 colored rectangles, each labeled with its number, HEX, HSL, and LCH values." src= "https://github.com/vnmdcvpfug/drylab/blob/main/img/make-russia-small-again.svg">
+</a>
