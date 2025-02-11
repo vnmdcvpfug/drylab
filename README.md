@@ -1,7 +1,7 @@
 <h3 align = center>drylab</h3>
 
-# palette
+### palette
 
-# black and white palette
+### black and white palette
 
-# terminal palette
+### terminal palette
