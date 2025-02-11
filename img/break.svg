@@ -1,10 +1,10 @@
-<svg width="80" height="10" viewBox="0 0 80 10" fill="none" xmlns="http://www.w3.org/2000/svg">
-<rect width="10" height="10" fill="#EDA69E"/>
-<rect width="10" height="10" transform="translate(10)" fill="#D4B383"/>
-<rect width="10" height="10" transform="translate(20)" fill="#AAC088"/>
-<rect width="10" height="10" transform="translate(30)" fill="#7EC8A9"/>
-<rect width="10" height="10" transform="translate(40)" fill="#6CC7D3"/>
-<rect width="10" height="10" transform="translate(50)" fill="#8DBFEE"/>
-<rect width="10" height="10" transform="translate(60)" fill="#C3B0E9"/>
-<rect width="10" height="10" transform="translate(70)" fill="#DEA8D5"/>
+<svg width="400" height="50" viewBox="0 0 400 50" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="50" height="50" fill="#EDA69E"/>
+<rect width="50" height="50" transform="translate(50)" fill="#D4B383"/>
+<rect width="50" height="50" transform="translate(100)" fill="#AAC088"/>
+<rect width="50" height="50" transform="translate(150)" fill="#7EC8A9"/>
+<rect width="50" height="50" transform="translate(200)" fill="#6CC7D3"/>
+<rect width="50" height="50" transform="translate(250)" fill="#8DBFEE"/>
+<rect width="50" height="50" transform="translate(300)" fill="#C3B0E9"/>
+<rect width="50" height="50" transform="translate(350)" fill="#DEA8D5"/>
 </svg>
