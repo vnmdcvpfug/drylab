@@ -1,4 +1,5 @@
 <h3 align = center>Dry Lab</h3>
+<div align = center>a boring theme</div>
 
 ### palette
 ![An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette.svg)
