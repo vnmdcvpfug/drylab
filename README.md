@@ -1,8 +1,13 @@
+<div align = center><img alt="An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values." src="https://github.com/vnmdcvpfug/drylab/blob/594010ee519f1301733cf8618c42ad6e5f1e0e55/img/break.svg"></div>
 <h3 align = center>Dry Lab</h3>
 <div align = center>a boring theme</div>
 
+### why?
+
+I wanted a simple, tint-free theme for my setup. I couldn't find one, so I started making my own. I created a black-and-white gradient but then fell down a rabbit hole choosing the remaining colors. I ended up selecting colors in GIMP using the LCH color space, so they should have the same brightness to the human eye. My OCD made sure that Dry Lab was perfect, but I'll probably make changes later anyway. So, enjoy.
+
 ### palette
-![An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette.svg)
+![An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette.svg)
 <table>
 	<tr>
 		<th>Colors</th>
@@ -52,7 +57,7 @@
 </table>
 
 ### black and white palette
-![An SVG image showing a row of eight rectangles transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette-bw.svg)
+![An SVG image showing a row of eight rectangles transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-bw.svg)
 <table>
 	<tr>
 		<th>Lightness</th>
@@ -102,7 +107,7 @@
 </table>
 
 ### terminal palette
-![An SVG image showing two rows of 16 colored rectangles, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette-terminal.svg)
+![An SVG image showing two rows of 16 colored rectangles, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-terminal.svg)
 <table>
 	<tr>
 		<th>number</th>
@@ -190,5 +195,3 @@
 		<td><code>hsl(0, 0%, 94%)</code></td>
 	</tr>
 </table>
-
-### why?
