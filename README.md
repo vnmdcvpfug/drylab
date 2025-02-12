@@ -1,12 +1,12 @@
 <div align = center><img alt="An SVG image showing a row of eight smaller colored squares" src="https://github.com/vnmdcvpfug/drylab/blob/main/img/break.svg"></div>
 <h3 align = center>Dry Lab</h3>
-<div align = center>a boring theme</div>
+<div align = center>A boring theme</div>
 
-### why?
+### Why?
 
 I wanted a simple, tint-free theme for my setup. I couldn't find one, so I started making my own. I created a black-and-white gradient but then fell down a rabbit hole choosing the remaining colors. I ended up selecting colors in GIMP using the LCH color space, so they should have the same brightness to the human eye. My OCD made sure that Dry Lab was perfect, but I'll probably make changes later anyway. So, enjoy.
 
-### palette
+### Palette
 ![An SVG image showing a row of eight colored squares, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette.svg)
 <table>
 	<tr>
@@ -56,7 +56,7 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 	</tr>
 </table>
 
-### black and white palette
+### Black and white palette
 ![An SVG image showing a row of eight squares transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-bw.svg)
 <table>
 	<tr>
@@ -106,7 +106,7 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 	</tr>
 </table>
 
-### terminal palette
+### Terminal palette
 ![An SVG image showing two rows of 16 colored squares, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-terminal.svg)
 <table>
 	<tr>
