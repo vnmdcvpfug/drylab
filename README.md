@@ -1,4 +1,4 @@
-<div align = center><img alt="An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values." src="https://github.com/vnmdcvpfug/drylab/blob/main/img/break.svg"></div>
+<div align = center><img alt="An SVG image showing a row of eight smaller colored squares" src="https://github.com/vnmdcvpfug/drylab/blob/main/img/break.svg"></div>
 <h3 align = center>Dry Lab</h3>
 <div align = center>a boring theme</div>
 
@@ -7,7 +7,7 @@
 I wanted a simple, tint-free theme for my setup. I couldn't find one, so I started making my own. I created a black-and-white gradient but then fell down a rabbit hole choosing the remaining colors. I ended up selecting colors in GIMP using the LCH color space, so they should have the same brightness to the human eye. My OCD made sure that Dry Lab was perfect, but I'll probably make changes later anyway. So, enjoy.
 
 ### palette
-![An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette.svg)
+![An SVG image showing a row of eight colored squares, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette.svg)
 <table>
 	<tr>
 		<th>Colors</th>
@@ -57,7 +57,7 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 </table>
 
 ### black and white palette
-![An SVG image showing a row of eight rectangles transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-bw.svg)
+![An SVG image showing a row of eight squares transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-bw.svg)
 <table>
 	<tr>
 		<th>Lightness</th>
@@ -107,7 +107,7 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 </table>
 
 ### terminal palette
-![An SVG image showing two rows of 16 colored rectangles, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-terminal.svg)
+![An SVG image showing two rows of 16 colored squares, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-terminal.svg)
 <table>
 	<tr>
 		<th>number</th>
@@ -197,5 +197,5 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 </table>
 
 <a href="https://u24.gov.ua">
-<img alt="An SVG image showing two rows of 16 colored rectangles, each labeled with its number, HEX, HSL, and LCH values." src= "https://github.com/vnmdcvpfug/drylab/blob/main/img/make-russia-small-again.svg">
+<img alt="An SVG image featuring eight colored rectangles, with the words 'make russia small again' placed in the center of the middle four rectangles." src= "https://github.com/vnmdcvpfug/drylab/blob/main/img/make-russia-small-again.svg">
 </a>
