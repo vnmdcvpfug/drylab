@@ -110,7 +110,7 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 ![An SVG image showing two rows of 16 colored squares, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-terminal.svg)
 <table>
 	<tr>
-		<th>number</th>
+		<th>Number</th>
 		<th>Hex</th>
 		<th>HSL/LCH</th>
 	</tr>
