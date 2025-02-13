@@ -1,8 +1,19 @@
+<div align = center><img alt="An SVG image showing a row of eight smaller colored squares" src="https://github.com/vnmdcvpfug/drylab/blob/main/img/break.svg"></div>
 <h3 align = center>Dry Lab</h3>
-<div align = center>a boring theme</div>
+<div align = center>A boring theme</div>
 
-### palette
-![An SVG image showing a row of eight colored rectangles, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette.svg)
+- [Description](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#description)
+- [Palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#palette)
+- [Black and white palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#black-and-white-palette)
+- [Terminal palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#terminal-palette)
+- [Installation](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#installation)
+
+### Description
+
+I wanted a simple, tint-free theme for my setup. I couldn't find one, so I started making my own. I created a black-and-white gradient but then fell down a rabbit hole choosing the remaining colors. I ended up selecting colors in GIMP using the LCH color space, so they should have the same brightness to the human eye. My OCD made sure that Dry Lab was perfect, but I'll probably make changes later anyway. So, enjoy.
+
+### Palette
+![An SVG image showing a row of eight colored squares, each labeled with their HEX and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette.svg)
 <table>
 	<tr>
 		<th>Colors</th>
@@ -51,8 +62,8 @@
 	</tr>
 </table>
 
-### black and white palette
-![An SVG image showing a row of eight rectangles transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette-bw.svg)
+### Black and white palette
+![An SVG image showing a row of eight squares transitioning from black to white, each labeled with their HEX and HSL values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-bw.svg)
 <table>
 	<tr>
 		<th>Lightness</th>
@@ -101,11 +112,11 @@
 	</tr>
 </table>
 
-### terminal palette
-![An SVG image showing two rows of 16 colored rectangles, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/82dce0be0ccf5dd6333ebf4a377c77fe472d29f3/img/palette-terminal.svg)
+### Terminal palette
+![An SVG image showing two rows of 16 colored squares, each labeled with its number, HEX, HSL, and LCH values.](https://github.com/vnmdcvpfug/drylab/blob/main/img/palette-terminal.svg)
 <table>
 	<tr>
-		<th>number</th>
+		<th>Number</th>
 		<th>Hex</th>
 		<th>HSL/LCH</th>
 	</tr>
@@ -191,4 +202,32 @@
 	</tr>
 </table>
 
-### why?
+### Installation
+
+```
+# Install git if it's not already installed
+sudo pacman -S git
+
+# Clone this repository
+git clone https://github.com/vnmdcvpfug/drylab.git
+```
+
+#### Kitty
+Move the files from the 'kitty' folder to `~/.config/kitty/themes`. Then run `kitten themes`, search for 'Dry Lab Dark' and 'Dry Lab Light,' and select them as the dark and light mode themes, respectively.
+
+#### Wezterm
+Move the files from the 'wezterm' folder to `~/.config/wezterm/`. Then add these lines to your 'wezterm.lua':
+```lua
+config.colors = current_theme.colors
+return config
+```
+
+#### Zathura
+Move the files from the 'zathura' folder to `~/.config/zathura`. Then add this line to your 'zathurarc':
+```
+include current-theme
+```
+
+<a href="https://u24.gov.ua">
+<img alt="An SVG image featuring eight colored rectangles, with the words 'make russia small again' placed in the center of the middle four rectangles." src= "https://github.com/vnmdcvpfug/drylab/blob/main/img/make-russia-small-again.svg">
+</a>
