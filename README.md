@@ -2,7 +2,7 @@
 <h3 align = center>Dry Lab</h3>
 <div align = center>A boring theme</div>
 
-- [Description](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#why)
+- [Description](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#description)
 - [Palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#palette)
 - [Black and white palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#black-and-white-palette)
 - [Terminal palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#terminal-palette)
