@@ -2,7 +2,13 @@
 <h3 align = center>Dry Lab</h3>
 <div align = center>A boring theme</div>
 
-### Why?
+- [Description](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#why)
+- [Palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#palette)
+- [Black and white palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#black-and-white-palette)
+- [Terminal palette](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#terminal-palette)
+- [Installation](https://github.com/vnmdcvpfug/drylab?tab=readme-ov-file#installation)
+
+### Description
 
 I wanted a simple, tint-free theme for my setup. I couldn't find one, so I started making my own. I created a black-and-white gradient but then fell down a rabbit hole choosing the remaining colors. I ended up selecting colors in GIMP using the LCH color space, so they should have the same brightness to the human eye. My OCD made sure that Dry Lab was perfect, but I'll probably make changes later anyway. So, enjoy.
 
@@ -195,6 +201,32 @@ I wanted a simple, tint-free theme for my setup. I couldn't find one, so I start
 		<td><code>hsl(0, 0%, 94%)</code></td>
 	</tr>
 </table>
+
+### Installation
+
+```
+# Install git if it's not already installed
+sudo pacman -S git
+
+# Clone this repository
+git clone https://github.com/vnmdcvpfug/drylab.git
+```
+
+#### Kitty
+Move the files from the 'kitty' folder to `~/.config/kitty/themes`. Then run `kitten themes`, search for 'Dry Lab Dark' and 'Dry Lab Light', and select them as the dark and light mode themes, respectively.
+
+#### Wezterm
+Move the files from the 'wezterm' folder to `~/.config/wezterm/`. Then add these lines to your 'wezterm.lua':
+```lua
+config.colors = current_theme.colors
+return config
+```
+
+#### Zathura
+Move the files from the 'zathura' folder to `~/.config/zathura`. Then add this line to your 'zathurarc':
+```
+include current-theme
+```
 
 <a href="https://u24.gov.ua">
 <img alt="An SVG image featuring eight colored rectangles, with the words 'make russia small again' placed in the center of the middle four rectangles." src= "https://github.com/vnmdcvpfug/drylab/blob/main/img/make-russia-small-again.svg">
