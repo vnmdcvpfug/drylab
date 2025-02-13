@@ -213,7 +213,7 @@ git clone https://github.com/vnmdcvpfug/drylab.git
 ```
 
 #### Kitty
-Move the files from the 'kitty' folder to `~/.config/kitty/themes`. Then run `kitten themes`, search for 'Dry Lab Dark' and 'Dry Lab Light', and select them as the dark and light mode themes, respectively.
+Move the files from the 'kitty' folder to `~/.config/kitty/themes`. Then run `kitten themes`, search for 'Dry Lab Dark' and 'Dry Lab Light,' and select them as the dark and light mode themes, respectively.
 
 #### Wezterm
 Move the files from the 'wezterm' folder to `~/.config/wezterm/`. Then add these lines to your 'wezterm.lua':
